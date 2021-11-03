@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bizonho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+a{
+    background-color: aqua;
+    padding: 2rem;
+}
